@@ -17,7 +17,7 @@ POST /v1.0/monitoring/batchmon/appkey/{appKey}/scenarios/{scenarioId}
 Content-Type: application/json
 ```
 
-[Path Variables]
+[Path Variables] test
 
 | Value |	Type | Required? |	Description |
 |---|---|---|--|
